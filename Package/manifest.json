@@ -1,0 +1,17 @@
+{
+    "ManifestVersion": 1,
+    "Name": "Tools.BattlelogOffline",
+    "DisplayName": "Battlelog离线剧情启动",
+    "Description": "断网状态下启动单人剧情，解决EA App不能断网启动的问题",
+    "Author": "琴梨梨",
+    "PkgVersion": 1,
+    "RequireVersion": 100,
+    "Server": "https://github.com/GlacierLab/KumoDesktopPackages/releases/download/",
+    "SecurityLevel": 0,
+    "Permissions": [
+        "Execute"
+    ],
+    "Path": "Tools\\BattlelogOffline",
+    "Domain": "battlelog-offline.tools.kumo-desktop.qinlili.bid",
+    "Entry": "index.html"
+}
